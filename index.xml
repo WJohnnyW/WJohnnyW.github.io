@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiqiang&#39;s Homepage</title>
+    <link>https://wjohnnyw.github.io/</link>
+    <description>Recent content on Weiqiang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wjohnnyw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEURAL MARIONETTE: Conditioned Human Motion Generation with Multiple Actions</title>
+      <link>https://wjohnnyw.github.io/blog/tag2motion/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wjohnnyw.github.io/blog/tag2motion/</guid>
+      <description>Abstract ​
+We present a neural network-based system for long-term, multi-action human motion synthesis. The system, dubbed as NEURAL MARIONETTE, can produce high-quality and meaningful motions with smooth transitions from simple user input, including a sequence of action tags with expected action duration, and optionally a hand-drawn moving trajectory if the user specifies. The core of our system is a novel Transformer based motion generation model, namely MARIONET, which can generate diverse motions given action tags.</description>
+    </item>
+    
+    <item>
+      <title>NEURAL MARIONETTE: Conditioned Human Motion Generation with Multiple Actions</title>
+      <link>https://wjohnnyw.github.io/pages/tag2motion/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wjohnnyw.github.io/pages/tag2motion/</guid>
+      <description>Abstract We present a neural network-based system for long-term, multi-action human motion synthesis. The system, dubbed as NEURAL MARIONETTE, can produce high-quality and meaningful motions with smooth transitions from simple user input, including a sequence of action tags with expected action duration, and optionally a hand-drawn moving trajectory if the user specifies. The core of our system is a novel Transformer based motion generation model, namely MARIONET, which can generate diverse motions given action tags.</description>
+    </item>
+    
+    <item>
+      <title>Secrets To ML – Even In This Down Economy</title>
+      <link>https://wjohnnyw.github.io/project/blog1/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wjohnnyw.github.io/project/blog1/</guid>
+      <description>Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam.</description>
+    </item>
+    
+  </channel>
+</rss>

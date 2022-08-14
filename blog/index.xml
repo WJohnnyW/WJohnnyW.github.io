@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Weiqiang&#39;s Homepage</title>
+    <link>https://wjohnnyw.github.io/blog/</link>
+    <description>Recent content in Blogs on Weiqiang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wjohnnyw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEURAL MARIONETTE: Conditioned Human Motion Generation with Multiple Actions</title>
+      <link>https://wjohnnyw.github.io/blog/tag2motion/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wjohnnyw.github.io/blog/tag2motion/</guid>
+      <description>Abstract ​
+We present a neural network-based system for long-term, multi-action human motion synthesis. The system, dubbed as NEURAL MARIONETTE, can produce high-quality and meaningful motions with smooth transitions from simple user input, including a sequence of action tags with expected action duration, and optionally a hand-drawn moving trajectory if the user specifies. The core of our system is a novel Transformer based motion generation model, namely MARIONET, which can generate diverse motions given action tags.</description>
+    </item>
+    
+  </channel>
+</rss>
